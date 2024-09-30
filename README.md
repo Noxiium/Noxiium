@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Johan Seller Fredlund
 
-#### I am a Full Stack developer from Sweden.
+#### I am a software engineer focusing on full-stack development.
 You can reach me at: johan98nox@gmail.com or johansf98@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
