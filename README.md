@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Johan Seller Fredlund
+## Hi there 👋, I'm Noxiium
 
 #### I am a software engineer focusing on full-stack development.
 You can reach me at: johan98nox@gmail.com or johansf98@hotmail.com
