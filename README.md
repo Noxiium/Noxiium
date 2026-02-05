@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Noxiium
 
 #### I am a software engineer focusing on full-stack development.
-You can reach me at: johan98nox@gmail.com or johansf98@hotmail.com
+You can reach me at: johan.seller-fredlund@proton.me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
